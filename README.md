@@ -17,7 +17,7 @@ Look at my design of a unique and useful Christmas Clock which is an actual func
 
 >[Gerber Files](https://github.com/the-non-academic-coder/Christmas-PCB/blob/main/Gerber_PCB_Christmas_Clock.zip)
 
-> [Order from JLCPCB](https://jlcpcb.com/)
+
 
 
 # Schematic
