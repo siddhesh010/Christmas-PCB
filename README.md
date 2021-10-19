@@ -1,7 +1,7 @@
-# JLCPCB_Siddhesh_Christmas_Clock_PCB
+# ALLPCB_Siddhesh_Christmas_Clock_PCB_uselessPCB
 
 
-> As in 2020 JLCPCB is conducting a contest on PCB designing and the theme is of Christmas. Searching for Christmas PCB will only leave you looking at endless results of christmas trees with led's in different fashion but wait.......
+> As in 2020 ALLPCB is conducting a contest on PCB designing and the theme is of UselessPCB. Searching for Christmas PCB will only leave you looking at endless results of christmas trees with led's in different fashion but wait.......
 Look at my design of a unique and useful Christmas Clock which is an actual functioning hour clock with 12 leds and a buzzer for every hourly alert. Its Beautiful and suits the purpose of a Christmas decoration as well as suits it's purpose as a clock.
 
 
